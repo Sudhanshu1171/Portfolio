@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="299" height="44.977" viewBox="0 0 299 44.977">
+  <g id="Group_1" data-name="Group 1" transform="translate(-232 -34.012)">
+    <text id="SUDHANSHU_KADU" data-name="SUDHANSHU KADU" transform="translate(287 65)" fill="#fff" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">SUDHANSHU KADU</tspan></text>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(232 34.012)">
+      <g id="Layer_1" data-name="Layer 1">
+        <g id="Ellipse_1" data-name="Ellipse 1">
+          <path id="Path_1" data-name="Path 1" d="M42.76,12.71,38,15.45A17,17,0,0,0,14.2,7.68L11.54,2.86A22.21,22.21,0,0,1,22.5,0,22.48,22.48,0,0,1,42.76,12.71Z" fill="#594d1f"/>
+          <path id="Path_2" data-name="Path 2" d="M45,22.5A22.46,22.46,0,0,1,33,42.37l-2.63-4.83A17,17,0,0,0,38,15.45l4.79-2.74A22.31,22.31,0,0,1,45,22.5Z" fill="#f2ce19"/>
+          <path id="Path_3" data-name="Path 3" d="M33,42.37A22.487,22.487,0,0,1,1.76,13.77l5,2.39A17,17,0,0,0,30.41,37.54Z" fill="#efe41a"/>
+          <path id="Path_4" data-name="Path 4" d="M14.17,7.68a17.1,17.1,0,0,0-7.45,8.48l-5-2.39A22.46,22.46,0,0,1,11.54,2.86Z" fill="#3c2415"/>
+        </g>
+        <line id="Line_1" data-name="Line 1" x1="0.24" y1="0.45" transform="translate(33.04 42.37)" fill="none"/>
+        <line id="Line_2" data-name="Line 2" x1="0.24" y1="0.45" transform="translate(11.3 2.41)" fill="none"/>
+        <line id="Line_3" data-name="Line 3" x1="0.44" y2="0.25" transform="translate(37.53 15.45)" fill="none"/>
+        <line id="Line_4" data-name="Line 4" x1="0.03" y2="0.02" transform="translate(23 23.98)" fill="none"/>
+        <line id="Line_5" data-name="Line 5" x1="0.44" y2="0.25" transform="translate(42.76 12.46)" fill="none"/>
+        <line id="Line_6" data-name="Line 6" x1="0.46" y1="0.22" transform="translate(1.3 13.55)" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
